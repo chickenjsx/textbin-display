@@ -2,8 +2,8 @@
 
 **The secure platform for dumping your ideas instantly.**
 
-**This repository is for display purposes only. It helps me preserve the integrity and ownership of the code’s intellectual property.
-**
+**This repository is for display purposes only. It helps me preserve the integrity and ownership of the code’s intellectual property.**
+
 Textbin is a modern, secure note-taking application that lets you quickly capture thoughts, ideas, code snippets, and any text-based content without the hassle of creating files or emailing yourself. Built with Next.js and featuring end-to-end encryption, Textbin is your digital brain dump.
 
 ## 🚀 Features
